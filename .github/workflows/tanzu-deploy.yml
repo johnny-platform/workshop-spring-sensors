@@ -22,4 +22,3 @@ jobs:
           # buildPlanSource: custom-build-plan
           project: ne-growth
           space: johnnyplatform-dev-aks-2
-          # adding line to run action
